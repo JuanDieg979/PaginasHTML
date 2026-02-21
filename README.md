@@ -6,3 +6,9 @@
 Este repositorio contiene una colección de **15 programas de muestra** desarrollados para la materia de programación. El proyecto utiliza un archivo `index.htm` centralizado que sirve como menú interactivo para navegar por los diferentes ejercicios.
 
 ---
+
+## 🚀 Acceso Directo
+Puedes ver el proyecto funcionando directamente en tu navegador aquí:
+👉 **[https://juandieg979.github.io/PaginasHTML/](https://juandieg979.github.io/PaginasHTML/)**
+
+---
