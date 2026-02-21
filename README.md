@@ -12,3 +12,9 @@ Puedes ver el proyecto funcionando directamente en tu navegador aquí:
 👉 **[https://juandieg979.github.io/PaginasHTML/](https://juandieg979.github.io/PaginasHTML/)**
 
 ---
+
+## 👤 Información del Estudiante
+* **Nombre:** Juan Diego Nava Victorio
+* **Grado y Grupo:** 4ºA Programación
+* **Escuela:** CBTIS 226
+* **Turno:** Vespertino (T/V)
