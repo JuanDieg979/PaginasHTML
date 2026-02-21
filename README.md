@@ -31,3 +31,5 @@ El repositorio está organizado de la siguiente manera para mantener el orden de
 * **Diseño:** Uso de atributos de fondo (`background`), alineación y manejo de colores en tablas.
 
 ---
+
+> **Nota Académica:** Este proyecto fue realizado como parte de las actividades del cuarto semestre de la carrera técnica en Programación en el CBTIS 226.
